@@ -1,4 +1,4 @@
-# A-Frame Starter kit with Vite
+# A-Frame Starter Pack with Vite
 
 
 ### Prerequisites
@@ -22,4 +22,4 @@ npm run dev
 ```
 This will start the server and open your default browser to your localhost. The site will reload automatically as you make changes to your code.
 
-© 2023 | A-Frame Starter kit with Vite | GrafSoul
+© 2023 | A-Frame Starter Pack with Vite | GrafSoul
